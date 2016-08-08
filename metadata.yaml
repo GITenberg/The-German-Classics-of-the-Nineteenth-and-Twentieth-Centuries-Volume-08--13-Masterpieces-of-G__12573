@@ -1,0 +1,73 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-08--13-Masterpieces-of-G__12573
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Stifter, Adalbert
+    alias: Stifter, A. (Adalbert)
+    birthdate: 1805
+    deathdate: 1868
+    gutenberg_agent_id: '2329'
+    url: http://www.gutenberg.org/2009/agents/2329
+    wikipedia: http://en.wikipedia.org/wiki/Adalbert_Stifter
+  - agent_name: Riehl, Wilhelm Heinrich
+    alias: Riehl, W. H. (Wilhelm Heinrich)
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '25473'
+    url: http://www.gutenberg.org/2009/agents/25473
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Heinrich_Riehl
+  - agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+  - agent_name: Gotthelf, Jeremias
+    aliases:
+    - Bitzius, Albrecht
+    - Gotthelf, Jeremiah
+    - Bitzius, Albert
+    birthdate: 1797
+    deathdate: 1854
+    gutenberg_agent_id: '35761'
+    url: http://www.gutenberg.org/2009/agents/35761
+    wikipedia: http://en.wikipedia.org/wiki/Jeremias_Gotthelf
+  - agent_name: Reuter, Fritz
+    alias: Reuter, Heinrich Ludwig Christian Friedrich
+    birthdate: 1810
+    deathdate: 1874
+    gutenberg_agent_id: '5592'
+    url: http://www.gutenberg.org/2009/agents/5592
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Reuter
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- GITenberg
+tableOfContents: 'The Novel of Provincial Life. By Edwin C. Roedder -- AUERBACH: Little
+  Barefoot. (abridged) -- GOTTHELF: Uli, The Farmhand. -- REUTER: The Bräsig Episodes
+  from Ut mine Stromtid. (abridged) -- STIFTER: Rock Crystal. -- Wilhelm Heinrich
+  Riehl. By Otto Heller -- RIEHL: Field and Forest. -- The Eye for Natural Scenery.
+  -- The Musical Ear. -- The Struggle of the Rococo with the Pigtail.'
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 08\r\
+  \nMasterpieces of German Literature Translated into English"
+url: http://www.gutenberg.org/ebooks/12573
