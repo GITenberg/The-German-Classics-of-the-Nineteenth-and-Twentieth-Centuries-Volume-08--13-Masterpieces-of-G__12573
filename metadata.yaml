@@ -1,5 +1,5 @@
 _repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-08--13-Masterpieces-of-G__12573
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Stifter, Adalbert
@@ -40,6 +40,9 @@ contributor:
     gutenberg_agent_id: '5592'
     url: http://www.gutenberg.org/2009/agents/5592
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Reuter
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Francke, Kuno
@@ -49,6 +52,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3853
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12573#The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-08--13-Masterpieces-of-G_
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
